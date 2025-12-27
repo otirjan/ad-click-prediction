@@ -30,7 +30,7 @@ From a business perspective, this approach helps improve how ads are delivered b
 
 **Tools and Technologies**
 
-Python
-TensorFlow / Keras
-Pandas, NumPy
+Python,
+TensorFlow / Keras,
+Pandas, NumPy,
 Scikit-learn
